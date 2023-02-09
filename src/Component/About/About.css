@@ -1,0 +1,27 @@
+.div-set img {
+  width: 250px;
+  height: 350px;
+  border-radius: 30%;
+}
+.div-set {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+.details-div {
+  width: 700px;
+}
+.div-set button {
+  width: 180px;
+  padding: 5px;
+  border: 2px solid rgb(30, 122, 12);
+  border-radius: 10px;
+  transition: 0.5s all;
+}
+.div-set button:hover {
+  background-color: rgb(30, 122, 12);
+  color: white;
+}
