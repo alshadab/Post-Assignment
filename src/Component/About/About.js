@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
 import profile from "../images/rsz__mg_5266.jpg";
-import { Button } from "bootstrap";
+
 const About = () => {
   return (
     <div className="post-div-main">
@@ -10,6 +10,7 @@ const About = () => {
           <img src={profile} alt="profile" />
           <h1>Al Shadab Arnab</h1>
           <p>MERN Stack Developer</p>
+          <p>+880-1832296784</p>
           <div className="details-div">
             <p>
               <span style={{ fontWeight: "bold" }}>"</span> I am an energetic,
@@ -18,7 +19,7 @@ const About = () => {
               situation that I am presented with. I always try to achieve the
               highest standard possible. I want to gofar by helping each other.
               I am excellent at working with others. Overall If a person has a
-              passion for work, he can doeverything.{" "}
+              passion for work, he can do everything.{" "}
               <span style={{ fontWeight: "bold" }}>"</span>
             </p>
           </div>
