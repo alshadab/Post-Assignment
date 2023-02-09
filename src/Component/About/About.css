@@ -9,10 +9,10 @@
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  gap: 15px;
+  gap: 3px;
 }
 .details-div {
-  width: 700px;
+  max-width: 700px;
 }
 .div-set button {
   width: 180px;
