@@ -1,1 +1,1 @@
-It is social media type app that has post and post details
+It is a social media type app that has post and post details
